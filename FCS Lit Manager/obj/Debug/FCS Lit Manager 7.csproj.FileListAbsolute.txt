@@ -1,0 +1,16 @@
+E:\FusionCrew\Solutions\00 FusionCrewSolutions - Projects\FCS LitMan\FCS Lit Manager 7\FCS Lit Manager\bin\Debug\LitManDB.mdf
+E:\FusionCrew\Solutions\00 FusionCrewSolutions - Projects\FCS LitMan\FCS Lit Manager 7\FCS Lit Manager\bin\Debug\LitManDB_log.ldf
+E:\FusionCrew\Solutions\00 FusionCrewSolutions - Projects\FCS LitMan\FCS Lit Manager 7\FCS Lit Manager\bin\Debug\FCS Lit Manager.exe.config
+E:\FusionCrew\Solutions\00 FusionCrewSolutions - Projects\FCS LitMan\FCS Lit Manager 7\FCS Lit Manager\bin\Debug\FCS Lit Manager.exe
+E:\FusionCrew\Solutions\00 FusionCrewSolutions - Projects\FCS LitMan\FCS Lit Manager 7\FCS Lit Manager\bin\Debug\FCS Lit Manager.pdb
+E:\FusionCrew\Solutions\00 FusionCrewSolutions - Projects\FCS LitMan\FCS Lit Manager 7\FCS Lit Manager\bin\Debug\Interop.AcroPDFLib.dll
+E:\FusionCrew\Solutions\00 FusionCrewSolutions - Projects\FCS LitMan\FCS Lit Manager 7\FCS Lit Manager\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\FusionCrew\Solutions\00 FusionCrewSolutions - Projects\FCS LitMan\FCS Lit Manager 7\FCS Lit Manager\obj\Debug\Interop.AcroPDFLib.dll
+E:\FusionCrew\Solutions\00 FusionCrewSolutions - Projects\FCS LitMan\FCS Lit Manager 7\FCS Lit Manager\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\FusionCrew\Solutions\00 FusionCrewSolutions - Projects\FCS LitMan\FCS Lit Manager 7\FCS Lit Manager\obj\Debug\FCS Lit Manager 7.csproj.ResolveComReference.cache
+E:\FusionCrew\Solutions\00 FusionCrewSolutions - Projects\FCS LitMan\FCS Lit Manager 7\FCS Lit Manager\obj\Debug\FCS_Lit_Manager.Form1.resources
+E:\FusionCrew\Solutions\00 FusionCrewSolutions - Projects\FCS LitMan\FCS Lit Manager 7\FCS Lit Manager\obj\Debug\FCS_Lit_Manager.FormSidebar.resources
+E:\FusionCrew\Solutions\00 FusionCrewSolutions - Projects\FCS LitMan\FCS Lit Manager 7\FCS Lit Manager\obj\Debug\FCS_Lit_Manager.Properties.Resources.resources
+E:\FusionCrew\Solutions\00 FusionCrewSolutions - Projects\FCS LitMan\FCS Lit Manager 7\FCS Lit Manager\obj\Debug\FCS Lit Manager 7.csproj.GenerateResource.Cache
+E:\FusionCrew\Solutions\00 FusionCrewSolutions - Projects\FCS LitMan\FCS Lit Manager 7\FCS Lit Manager\obj\Debug\FCS Lit Manager.exe
+E:\FusionCrew\Solutions\00 FusionCrewSolutions - Projects\FCS LitMan\FCS Lit Manager 7\FCS Lit Manager\obj\Debug\FCS Lit Manager.pdb
